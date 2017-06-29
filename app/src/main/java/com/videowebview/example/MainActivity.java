@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity
 
         videoWebview.setFullScreenView(getSupportActionBar(), (FrameLayout) findViewById(R.id.fullscreen_view));
 
-        videoWebview.getWebView().loadUrl("http://youtube.com");
+        videoWebview.loadUrl("http://youtube.com");
 
 
     }
