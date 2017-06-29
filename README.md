@@ -1,6 +1,10 @@
 # VideoWebview
 An Android WebView with full screen video ability
 
+![alt text](https://raw.githubusercontent.com/ravindu1024/video-webview/master/screenshots/1.png)
+![alt text](https://raw.githubusercontent.com/ravindu1024/video-webview/master/screenshots/2.png)
+![alt text](https://raw.githubusercontent.com/ravindu1024/video-webview/master/screenshots/3.png)
+
 # Installation
 - download the project
 - import the module 'video-enabled-webview' into your project
