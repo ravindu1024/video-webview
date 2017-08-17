@@ -6,9 +6,23 @@ An Android WebView with full screen video ability
 ![alt text](https://raw.githubusercontent.com/ravindu1024/video-webview/master/screenshots/3.png)
 
 # Installation
-- download the project
-- import the module 'video-enabled-webview' into your project
-- add a dependency on your 'app' module
+Add this to your main project gradle file
+```gradle
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+
+Then add this to your app/module gradle dependencies
+```gradle
+	dependencies {
+	        compile 'com.github.ravindu1024:video-webview:1.0.0'
+	}
+
+```
 
 # Usage
 - Basic: 
